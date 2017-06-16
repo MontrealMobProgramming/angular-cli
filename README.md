@@ -1,28 +1,40 @@
-# AngularCliSeed
+"Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”."
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive/pipe/service/class/module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+| number   | result    |
+| ---      | ---       |
+|1         | 1         |
+|2         | 2         |
+|3         | Fizz      |
+|4         | 4         |
+|5         | Buzz      |
+|6         | Fizz      |
+|7         | 7         |
+|8         | 8         |
+|9         | Fizz      |
+|10        | Buzz      |
+|11        | 11        |
+|12        | Fizz      |
+|13        | 13        |
+|14        | 14        |
+|15        | Fizz Buzz |
+|16        | 16        |
+|17        | 17        |
+|18        | Fizz      |
+|19        | 19        |
+|20        | Buzz      |
+|21        | Fizz      |
+|22        | 22        |
+|23        | 23        |
+|24        | Fizz      |
+|25        | Buzz      |
+|26        | 26        |
+|27        | Fizz      |
+|28        | 28        |
+|29        | 29        |
+|30        | Fizz Buzz |
+|31        | 31        |
+|32        | 32        |
+|33        | Fizz      |
+|34        | 34        |
+|35        | Buzz      |
+|36        | Fizz      |
